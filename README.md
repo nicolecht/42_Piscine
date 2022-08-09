@@ -4,6 +4,9 @@
 
 Main Syllabus: C and Shell
 
+Topics Covered:
+
+
 Projects Completed:
 - Shell 00 
 - C00 to C06
