@@ -6,7 +6,7 @@ Main Syllabus: C and Shell
 
 New topics covered in the projects I've completed:
 - Shell 00 = Unix Shell Commands
-- COO = Data types int and char, ASCII, Write function, while loops, if else statements
+- C00 = Data types int and char, ASCII, Write function, while loops, if else statements
 - C01 = single array, pointers
 - C02 = strings, base number, non-printable characters, ASCII, unsigned data
 - C03 = *similar to C02
