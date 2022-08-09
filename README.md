@@ -4,10 +4,7 @@
 
 Main Syllabus: C and Shell
 
-Topics Covered:
-
-
-Projects Completed:
+Topics covered in the projects I've completed:
 - Shell 00 
 - C00 to C06
 - Rush 00
