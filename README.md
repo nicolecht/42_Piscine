@@ -9,6 +9,4 @@ Projects Completed:
 - C00 to C06
 - Rush 00
 
-You may check my piscine project results:
-
-Intranet ID: nchee
+My intranet id is nchee if you wish check my piscine project results
