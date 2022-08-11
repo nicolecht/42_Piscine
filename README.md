@@ -1,4 +1,4 @@
-﻿# 42KL_Piscine
+﻿# 42_Piscine
 
 26 days coding bootcamp running from 16 May 2022 to 10 June 2022 (May 2022 batch).
 
